@@ -1,0 +1,190 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    box-sizing: border-box; 
+     
+} 
+body{ 
+    background: linear-gradient(180deg,#0e0f11,#1d2025 250px,#030307 700px,#030307) fixed; 
+    padding: 0 70px;
+    height: 100vh;
+
+} 
+header{ 
+    background: linear-gradient(180deg,#0e0f11,#1d2025 250px,#030307 700px,#030307) fixed; 
+    width: 100%; 
+    height: 75px; 
+     
+} 
+img{ 
+    width: 150px; 
+    margin-top: 18px; 
+    margin-left: 20px; 
+ 
+ 
+} 
+input{ 
+    background: #22292f; 
+    width: 999px; 
+    height: 30px; 
+    margin-left: 40px; 
+    border-radius: 3px; 
+    border-color: #394046; 
+    font-size: 27px; 
+    border: none; 
+    text-align: center; 
+    color: white; 
+     
+     
+     
+     
+     
+} 
+
+ion-icon{ 
+    color: white; 
+    font-size: 30px; 
+    margin-left: 30px; 
+     
+} 
+nav{ 
+    width:100%; 
+    height: 70px; 
+    background:   #3e4c59; 
+    text-align: center; 
+} 
+ 
+ul { 
+    display: flex; 
+    justify-content: space-between; 
+    list-style: none; 
+} 
+ 
+body a { 
+    position: relative; 
+    text-decoration: none; 
+    color: white; 
+    font-size: 24px; 
+    margin-right: 15px; 
+    padding-top: 15px; /* Оставляем одно значение padding-top */ 
+    padding-left: 12px; 
+} 
+ 
+menu{ 
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+} 
+.video1,.video3{ 
+    position: relative; 
+    display: flex; 
+    width: 400px; 
+    height: 200px; 
+    margin: 20px;
+} 
+.video,.video2{ 
+    width: 400px; 
+    margin: 20px;
+} 
+.video P{ 
+    color: white; 
+    text-align: center; 
+    font-size: 20px; 
+    margin-left: 90px; 
+    margin-top: -70px; 
+    font-size: 20px; 
+} 
+
+
+.logo1{ 
+    border-radius: 50%; 
+    width: 67px; 
+    height: 67px; 
+    margin-top: 10px; 
+     
+} 
+.p{ 
+    color: white; 
+    text-align: center; 
+    margin-top: 6px; 
+    font-size: 20px; 
+    margin-right: -100px; 
+} 
+.logo2{ 
+    border-radius: 50%; 
+    width: 67px; 
+    height: 67px; 
+    margin-left: 30px;  
+    margin-top: -0,01px; 
+ 
+     
+     
+} 
+aside{ 
+    float: right; 
+    width: 30%; 
+    height: 600px; 
+} 
+ 
+ 
+     
+ 
+.Reklama{ 
+    width: 340px; 
+    margin-left: 50px; 
+}
+
+footer{
+    text-align: start;
+    width: 100%;
+    height: 20vh;
+    margin-top: 55%;
+    background: #3e4c59;
+}
+
+footer p{
+    text-align: left;
+    font-size: 17px;
+    color: silver;
+    background: linear-gradient(180deg,#0e0f11,#1d2025 250px,#030307 700px,#030307) fixed; 
+    
+}
+span{
+    color: rgba(20, 187, 217, 0.759);
+}
+h3{
+    float: right;
+    margin-right: 50px;
+    border-radius: 30%;
+    background-color: red;
+    padding: 10px;
+    position: relative;
+    bottom: 60px;
+    
+}
+.p10{
+    width: 1060px;
+    background: linear-gradient(180deg,#0e0f11,#1d2025 250px,#030307 700px,#030307) fixed; 
+}
+.img11{
+    width: 100px;
+    float: right;
+    position: relative;
+    bottom: 14px;
+    background: linear-gradient(180deg,#0e0f11,#1d2025 250px,#030307 700px,#030307) fixed; 
+}
+select{
+    font-size: 24px;
+    margin-top: 15px;
+    background: #3e4c59;
+    border: none;
+    color: white;
+}
+option{
+    font-size: 40px;
+    background-color: black;
+    
+}
+
